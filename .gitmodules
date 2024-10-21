@@ -1,0 +1,3 @@
+[submodule "ESP-Serial-Bridge"]
+	path = ESP-Serial-Bridge
+	url = https://github.com/yuri-rage/ESP-Serial-Bridge
